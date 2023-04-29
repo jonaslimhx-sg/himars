@@ -1,5 +1,4 @@
 import streamlit as st
-from typing import List, Union
 import matplotlib.pyplot as plt
 import yaml
 from io import BytesIO
