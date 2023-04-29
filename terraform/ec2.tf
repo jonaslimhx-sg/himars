@@ -35,18 +35,10 @@ resource "aws_security_group" "sg" {
     }
 
     ingress {
-        from_port = 8200
-        to_port = 8200
-        protocol = "tcp"
-        description = "Telegram Bot"
-        cidr_blocks = ["0.0.0.0/0"]
-    }
-
-    ingress {
         from_port = 8100
         to_port = 8100
         protocol = "tcp"
-        description = "Telegram Bot"
+        description = "Streamlit"
         cidr_blocks = ["0.0.0.0/0"]
     }
 
