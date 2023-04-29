@@ -1,0 +1,39 @@
+hq:
+    brv: null
+    bcp: null
+    css_ha: null
+plt1: 
+    plt1_prv: null
+    plt1_pcp: null
+    plt1_rp1: null
+    plt1_rp2: null
+    t1_fp1: null
+    t1_fp2: null
+    t1_hp1: null
+    t1_hp2: null
+    t2_fp1: null
+    t2_fp2: null
+    t2_hp1: null
+    t2_hp2: null
+    t3_fp1: null
+    t3_fp2: null
+    t3_hp1: null
+    t3_hp2: null
+
+plt2: 
+    plt2_prv: null
+    plt2_pcp: null
+    plt2_rp1: null
+    plt2_rp2: null
+    t4_fp1: null
+    t4_fp2: null
+    t4_hp1: null
+    t4_hp2: null
+    t5_fp1: null
+    t5_fp2: null
+    t5_hp1: null
+    t5_hp2: null
+    t6_fp1: null
+    t6_fp2: null
+    t6_hp1: null
+    t6_hp2: null
