@@ -1,0 +1,9 @@
+# Files 
+*.ipynb_checkpoints
+*.jpg
+*.txt
+*.tfstate.backup
+*.tfstate
+*.terraform.lock.hcl
+*.terraform/
+*.env
