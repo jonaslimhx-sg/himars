@@ -27,6 +27,7 @@ cd ../streamlit
 
 # Close window
 ctr + b + d
+```
 
 # License
 This project is distributed under the GNU General Purpose License. Please see LICENSE for more information.
